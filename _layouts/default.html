@@ -8,34 +8,27 @@
     <title>{{ page.title }}</title>
 
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/media.css" media="screen" />
   </head>
 
   <body>
-    <!-- page header -->
-    <header>
-      <div class="container">
-        <h1>bianbian's blog</h1>
-        <h2>it's actually blog.bianbian.me</h2>
+    <div id="container">
+      <!-- page header -->
+      {% include header.html %}
+      <!-- page header end -->
+
+      <!-- content -->
+      <div id="content">
+        {{ content }}
       </div>
-    </header>
+      <!-- content end -->
 
-  {{ content }}
-
+      <!-- footer -->
+      {% include footer.html %}
+      <!-- footer end -->
+    </div>
 <!-- Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25136489-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+{% include ga.html %}
 <!-- Google Analytics end -->
   </body>
 </html>
