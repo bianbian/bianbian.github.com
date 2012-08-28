@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-permanlink: /about.html
+permalink: /about.html
 ---
 * [@bianbian](http://twitter.com/bianbian)
 * Programmer
