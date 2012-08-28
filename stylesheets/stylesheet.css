@@ -1,8 +1,6 @@
 body {
-  padding: 2.5em 0;
-  font-size: 1.25em;
   line-height: 1.5em;
-  font-family: Georgia, serif;
+  font-family: Georgia, serif, SimSun;
   color: #404040;
 }
 
@@ -14,6 +12,10 @@ a {
 a:hover {
   color: #086674;
   text-decoration: underline;
+}
+
+header {
+  text-align: center;
 }
 
 .clearfix{zoom:1}.clearfix:before,.clearfix:after{display:table;content:"";zoom:1}.clearfix:after{clear:both}
