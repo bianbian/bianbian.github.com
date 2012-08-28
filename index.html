@@ -17,10 +17,10 @@ title: Home
 <div id="paginator">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a class="newer" href="/">&larr; newer posts</a>
+      <a class="newer" href="/">« newer posts</a>
     {% else %}
-      <a class="newer" href="/page{{ paginator.previous_page }}">&larr; newer posts</a>
+      <a class="newer" href="/page{{ paginator.previous_page }}">« newer posts</a>
     {% endif %}
   {% endif %}
-  {% if paginator.next_page %}<a class="older" href="/page{{ paginator.next_page }}">older posts &rarr;</a>{% endif %}
+  {% if paginator.next_page %}<a class="older" href="/page{{ paginator.next_page }}">older posts »</a>{% endif %}
 </div>
