@@ -1,6 +1,6 @@
 ---
-layout: post
-title: About Me
+layout: page
+title: About
 permalink: /about.html
 ---
 * [@bianbian](https://twitter.com/bianbian)
