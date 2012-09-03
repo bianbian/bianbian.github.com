@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 320px) 
@@ -81,7 +83,7 @@ and (min-width : 1224px) {
   }
   nav {
     position: absolute;
-    top: .6em;
+    top: 0;
     right: 0;
   }
 }
@@ -97,7 +99,7 @@ and (min-width : 1824px) {
   }
   nav {
     position: absolute;
-    top: .6em;
+    top: 0;
     right: 0;
   }
 }
