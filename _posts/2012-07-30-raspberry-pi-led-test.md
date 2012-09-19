@@ -1,5 +1,6 @@
 --- 
 layout: post
+category: interesting
 tags: 
 - IT
 - Raspberry Pi
@@ -19,13 +20,11 @@ title: !binary |
 GPIO电压是3V3,拿来做个LED实验应该木问题.
 
 所需器材:
-<ul>
-	<li>rpi一只(必须的啦~)</li>
-	<li>面包板</li>
-	<li>发光二极管一只</li>
-	<li>220R电阻一只</li>
-	<li>杜邦线若干</li>
-</ul>
+* rpi一只(必须的啦~)
+* 面包板
+* 发光二极管一只
+* 220R电阻一只
+* 杜邦线若干
 
 思路:控制GPIO电压高低(3V3或0),就能点亮LED啦,保险起见,加个电阻限流.
 电路图:
