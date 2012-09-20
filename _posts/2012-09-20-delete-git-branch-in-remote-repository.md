@@ -9,5 +9,5 @@ But from git v1.7.0, this behaviour is [refused by default](https://github.com/g
 Command `git push origin --delete branch` is used instead with git 1.7.0+
 > "git push" learned "git push origin --delete branch", a syntactic sugar for "git push origin :branch".
 
-Ref:
-* [How do I delete a Git branch both locally and in Github?](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)
+Ref:  
+  [How do I delete a Git branch both locally and in Github?](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)
