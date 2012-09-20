@@ -10,4 +10,4 @@ Command `git push origin --delete branch` is used instead with git 1.7.0+
 > "git push" learned "git push origin --delete branch", a syntactic sugar for "git push origin :branch".
 
 Ref:  
-  [How do I delete a Git branch both locally and in Github?](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)
+[How do I delete a Git branch both locally and in Github?](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)
