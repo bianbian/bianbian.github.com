@@ -2,7 +2,9 @@
 layout: post
 title: run linux application from windows
 category: tech
-tags: linux, X11
+tags:
+- linux
+- X11
 ---
 Environment:
 
