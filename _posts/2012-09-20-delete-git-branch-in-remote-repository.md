@@ -4,7 +4,7 @@ title: delete git branch in remote repository
 category: tech
 tags: linux, git
 ---
-How to deleting a branch in remote repository?
+How to deleting a git branch in remote repository?
 
 In git v1.5.x and 1.6.x:
 
