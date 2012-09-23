@@ -1,18 +1,11 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _edit_last: "1"
-published: true
-status: publish
+category: life
 title: !binary |
   5Z+O5biC5ZKM5Lmh5p2R55qE5LyY57y654K5
-
 ---
+
 <table>
-<tbody>
 <tr>
 <td></td>
 <td class="center">城市</td>
@@ -34,6 +27,6 @@ title: !binary |
 拥挤的人群</td>
 <td> 劣质商品</td>
 </tr>
-</tbody>
 </table>
+
 我从村里到城里来,主要是因为身体太弱,干不了体力活==!
