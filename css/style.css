@@ -16,16 +16,16 @@ h6
 body {
   line-height: 1.5em;
   font-family: Georgia, serif, SimSun;
-  color: #404040;
+  color: #333;
 }
 
 a {
-  color: #0DA4BC;
+  color: #069;
   text-decoration: none;
 }
 
 a:hover {
-  color: #086674;
+  color: #333;
   text-decoration: underline;
 }
 
@@ -102,5 +102,6 @@ nav li:first-child::before {
 }
 
 code,pre {font-family:Monaco, Andale Mono, Courier New, monospace;font-size:0.8em;}
-code{font-size:0.9em;background:#222222;padding-left:0.2em;padding-right:0.2em;color:white;}
-pre{line-height:1.4em;display:block;color:white;background:#222222;-moz-border-radius:0.3em;-webkit-border-radius:0.3em;border-radius:0.3em;padding:0.6em;}
+code{font-size:0.9em;background:#eee;padding-left:0.2em;padding-right:0.2em;border:1px solid #ddd;}
+pre{line-height:1.4em;background:#eee;padding:0.6em;border:1px solid #ddd;-moz-border-radius:0.3em;-webkit-border-radius:0.3em;border-radius:0.3em;overflow:auto;}
+pre code{border:none}
