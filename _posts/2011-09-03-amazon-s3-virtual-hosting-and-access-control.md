@@ -16,7 +16,8 @@ But you must need another way to access your s3 objects, S3 provide a REST API l
 
 The first two way are build in with amazon s3, you need no configuration on them.
 
-The 3rd way, which let you access your s3 object under your domain name, it's powerfull, but need a little config: First, create a bucket named as your domain name, such as "img.example.com", then configure your DNS name  "img.example.com" as a CNAME alias for "img.example.com.s3.amazonaws.com". then you can access your bucket which named "img.example.com" through http://img.example.com! Note: *the bucket name must be the same as the CNAME*  
+The 3rd way, which let you access your s3 object under your domain name, it's powerfull, but need a little config: First, create a bucket named as your domain name, such as "img.example.com", then configure your DNS name  "img.example.com" as a CNAME alias for "img.example.com.s3.amazonaws.com". then you can access your bucket which named "img.example.com" through http://img.example.com! Note: **the bucket name must be the same as the CNAME** 
+
 You just know how to access your s3 resources, but before you can do that, you still need config who can access it. You may don't want everyone can do that, bcs this may cause you pay extra dollars :-(
 
 Bucket Policies can do that! For example, you just want your website www.example.com but no ohters can use your picture hosted at s3, you can use the "aws:Referer" to do that:

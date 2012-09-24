@@ -1,15 +1,8 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _wp_old_slug: hello-world-25
-  _edit_last: "1"
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: CentOS org turns 4!
+category: tech
+tags: [cent OS, linux]
 ---
 Something happened on December 4th, 2003 and it went largely unnoticed in the Linux world, even by the developers at the CentOS Project. On that date, the CentOS Project registered the domain name CentOS.org.
 
@@ -19,7 +12,7 @@ It has been a wild ride from nothing to a major player in the enterprise linux w
 
 The CentOS Project would like to thank all the Developers, QA Team Members, Forum Moderators, Mailing List Moderators and Translators for all their hard work in producing CentOS.
 
-We would also like to thank <a href="http://www.redhat.com/" target="_blank">Red Hat, Inc.</a> for being true to its open source roots. It is no coincidence that there are not any Linux distributions out there like CentOS based on any of the other <strong>paid</strong> enterprise linux offerings. Red Hat, Inc. is a first class organization and Red Hat Enterprise Linux is an outstanding operating system. We wish them both continued success.
+We would also like to thank [Red Hat, Inc.](http://www.redhat.com/") for being true to its open source roots. It is no coincidence that there are not any Linux distributions out there like CentOS based on any of the other **paid** enterprise linux offerings. Red Hat, Inc. is a first class organization and Red Hat Enterprise Linux is an outstanding operating system. We wish them both continued success.
 
 Last, but certainly not least, the CentOS Project would like to thank our users. There is not a better community anywhere in open source than the CentOS community. You are the reason that CentOS is where we are today.
 

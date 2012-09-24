@@ -1,31 +1,26 @@
 --- 
 layout: post
-tags: 
-- IT
-- ubuntu
-type: post
-meta: 
-  _wpas_skip_twitter: "1"
-published: true
-status: publish
 title: change hostname of ubuntu
+category: tech
+tags: 
+- ubuntu
 ---
-change hostname, take effect immediately, got lost after reboot
+## Change hostname, take effect immediately, got lost after reboot
 
-$sudo hostname newhostname
+	$sudo hostname newhostname
 
-&nbsp;
+## Change hostname,  take effect after reboot
 
-Change hostname,  take effect after reboot
+	$sudo vi /etc/hostname
 
-$sudo vi /etc/hostname
+change to:
 
 newhostname
 
-&nbsp;
+## Avoid "unable to resolve host xxx" error
 
-Avoid "unable to resolve host xxx" error
+	$sudo vi /etc/hosts
 
-$sudo vi /etc/hosts
+add a line:
 
-127.0.1.1 newhostname
+	127.0.1.1 newhostname

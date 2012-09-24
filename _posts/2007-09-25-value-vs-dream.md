@@ -1,17 +1,9 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _wp_old_slug: hello-world-22
-  _edit_last: "1"
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: !binary |
   5Lu35YC8JuaipuaDsw==
-
+category: life
+tags: [work]
 ---
 开学第一次参加招聘会，报着观望的态度来到了这家保险公司。
 

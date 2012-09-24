@@ -1,17 +1,9 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: hello-world-33
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: !binary |
   5p2C5oOz
-
+category: life
+tags: []
 ---
 原来我真的放不下
 

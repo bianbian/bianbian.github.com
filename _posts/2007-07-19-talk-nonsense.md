@@ -1,17 +1,9 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _wp_old_slug: hello-world-15
-  _edit_last: "1"
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: !binary |
   6IOh6KiA5Lmx6K+t
-
+category: life
+tags: []
 ---
 做任何事情之前都要明确做这件事的目的
 

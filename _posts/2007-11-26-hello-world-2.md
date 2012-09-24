@@ -1,14 +1,9 @@
 --- 
 layout: post
+title: Hello world!
+category: tech
 tags: 
 - blog
-- IT
 - wordpress
-type: post
-meta: {}
-
-published: true
-status: publish
-title: Hello world!
 ---
-Welcome to <a href="http://wordpress.com/">WordPress.com</a>. This is your first post. Edit or delete it and start blogging!
+Welcome to [WordPress.com](http://wordpress.com/). This is your first post. Edit or delete it and start blogging!

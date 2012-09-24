@@ -1,17 +1,9 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _wp_old_slug: hello-world-39
-  _edit_last: "1"
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: !binary |
   5omL5YaZ5pel5b+X
-
+category: life
+tags: [blog]
 ---
 我发现我不太适合写网络日志，还是手写来的有感觉，而且还可以练字，所以……
 

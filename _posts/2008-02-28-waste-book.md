@@ -1,17 +1,9 @@
 --- 
 layout: post
-tags: []
-
-type: post
-meta: 
-  _wp_old_slug: hello-world-31
-  _edit_last: "1"
-  _wpas_done_twitter: "1"
-published: true
-status: publish
 title: !binary |
   5rWB5rC05biQ
-
+category: life
+tags: []
 ---
 2月24日，踏上赴沪的火车
 
