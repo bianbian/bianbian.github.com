@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about.html
+layout: post
+title: about
 ---
 * [@bianbian](https://twitter.com/bianbian)
 * Programmer
