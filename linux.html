@@ -1,0 +1,8 @@
+---
+layout: post
+title: linux
+date: 2012-09-25
+---
+{% for page in site.tags.linux %}
+<p><span class="meta">{{ page.date | date_to_string }}</span> » <a href="{{ page.url }}">{{ page.title }}</a></p>
+{% endfor %}
