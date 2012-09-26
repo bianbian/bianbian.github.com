@@ -8,7 +8,7 @@ and (max-device-width : 480px) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
@@ -26,7 +26,7 @@ and (max-width : 320px) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
@@ -39,7 +39,7 @@ and (max-device-width : 1024px) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
@@ -53,7 +53,7 @@ and (orientation : landscape) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
@@ -67,7 +67,7 @@ and (orientation : portrait) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
@@ -81,7 +81,7 @@ and (min-width : 1224px) {
     margin: 0 auto;
     position: relative;
   }
-  nav {
+  header nav {
     position: absolute;
     top: 0;
     right: 0;
@@ -97,7 +97,7 @@ and (min-width : 1824px) {
     margin: 0 auto;
     position: relative;
   }
-  nav {
+  header nav {
     position: absolute;
     top: 0;
     right: 0;
@@ -112,7 +112,7 @@ only screen and (min-device-pixel-ratio : 1.5) {
   #container {
     width: 90%;
   }
-  nav ul {
+  header nav ul {
     padding: 0;
   }
 }
