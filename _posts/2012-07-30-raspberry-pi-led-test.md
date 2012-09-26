@@ -4,8 +4,8 @@ title: !binary |
   5qCR6I6T5rS+bGVk5a6e6aqM
 category: tech
 tags: 
-- Raspberry Pi
-- test
+- raspberry pi
+- diy
 ---
 其实还搞不太了解pi的gpio的电气特性,只知道gpio是直接跟BCM芯片连接,目前有多种语言能控制GPIO.  
 GPIO电压是3V3,拿来做个LED实验应该木问题.

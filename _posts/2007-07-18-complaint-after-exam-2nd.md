@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   6ICD5a6M6K+V77yM5Y+R54K554mi6aqa77yI5LqM77yJ
 category: life
-tags: []
+tags: [marketing]
 ---
 7.2.6 中国电子商务市场网民细分
 

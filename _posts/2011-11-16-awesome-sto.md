@@ -4,9 +4,9 @@ title: !binary |
   55Sz6YCa5aiB5q2m
 category: life
 tags: 
-- 360buy
-- taobao
 - sto
+- taobao
+- 360buy
 ---
 都说11.11快递要爆仓,我不信,因为哥11号的订单,12号就收到了.
 

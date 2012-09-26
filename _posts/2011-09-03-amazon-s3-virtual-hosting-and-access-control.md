@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: Amazon S3 Virtual Hosting and Access Control
+title: amazon s3 virtual hosting and access control
 category: tech
 tags: 
-- Amazon Web Services
-- S3
+- amazon web service
+- s3
 ---
 When you first come into [Amazon S3](http://aws.amazon.com/s3/), [AWS Management Console](https://console.aws.amazon.com/s3/home) provide a convent way to manage your s3 resource, including create bucket, upload object, view or download object.
 

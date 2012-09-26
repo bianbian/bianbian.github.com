@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: Amazing Train
+title: amazing train
 category: life
 tags: 
-- FML
+- fml
 - train
 ---
 看新闻,不解释.

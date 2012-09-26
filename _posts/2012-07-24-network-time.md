@@ -5,6 +5,8 @@ title: !binary |
 catagory: tech
 tags: 
 - linux
+- raspberry pi
+- raspbian
 - ntp
 ---
 rpi这板子没有RTC,所以网络对时是个不错的选择,或者自己加RTC模块...

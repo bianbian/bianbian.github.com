@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Development Plan
+title: development plan
 category: tech
 tags: 
 - Amazon Web Services

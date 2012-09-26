@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   6IW+6K6vUVHlsY/olL1DTuWfn+WQjQ==
 category: tech
-tags: [domain, QQ]
+tags: [domain, qq]
 ---
 落伍者论坛会员爆料，腾讯QQ在今日屏蔽所有后缀为.CN的域名，目前并不知道腾讯公司为何在其IM聊天工具内屏蔽后缀为.CN的域名。据猜测有可能与CNNIC降价.CN域名，导致.CN域名中病毒网站、垃圾网站大幅增加，从而导致QQ安全问题越发严重所采取的安全措施！
 

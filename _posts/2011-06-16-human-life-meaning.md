@@ -1,8 +1,8 @@
 --- 
 layout: post
-category: life
-tags:
 title: what is the meaning of human life?
+category: life
+tags: thought
 ---
 other animals spend their time hunting while human can take it easy, so human have more free time.
 

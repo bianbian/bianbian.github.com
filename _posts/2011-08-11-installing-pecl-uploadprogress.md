@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: Installing PECL uploadprogress
+title: installing PECL uploadprogress
 category: tech
 tags: 
-- apache
 - drupal
 - uploadprogress
+- linux
 - ubuntu
 ---
 why do this: <http://drupal.org/node/793262>

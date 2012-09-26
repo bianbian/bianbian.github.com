@@ -4,7 +4,9 @@ title: !binary |
   UmFzcGJlcnJ5IFBp5Yiw5omL
 category: tech
 tags: 
-- Raspberry Pi
+- raspberry pi
+- raspbian
+- ttl
 ---
 器材们:
 

@@ -1,8 +1,9 @@
 --- 
 layout: post
-category: life
 title: !binary |
   5Z+O5biC5ZKM5Lmh5p2R55qE5LyY57y654K5
+category: life
+tags: city
 ---
 
 <table>

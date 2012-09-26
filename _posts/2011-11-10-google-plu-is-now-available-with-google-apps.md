@@ -3,7 +3,7 @@ layout: post
 title: Google+ is now available with Google Apps
 category: tech
 tags: 
-- Google
+- google
 ---
 As before, Google+ is not available for Google Apps users for there reasons, but not now!
 

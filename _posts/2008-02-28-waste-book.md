@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   5rWB5rC05biQ
 category: life
-tags: []
+tags: [work]
 ---
 2月24日，踏上赴沪的火车
 

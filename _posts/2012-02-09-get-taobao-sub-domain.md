@@ -4,9 +4,10 @@ title: !binary |
   5pC25Yiw5reY5a+25LqM57Sa5Z+f5ZCN
 category: tech
 tags: 
+- linux
 - bash
-- domain
 - taobao
+- domain
 ---
 自從痛失.org域名以來,對域名的事情很是在意. 這次是淘寶的二級域名.
 

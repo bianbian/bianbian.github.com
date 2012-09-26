@@ -2,7 +2,7 @@
 layout: post
 title: !binary |
   6IGq5piO55qEVGVuY2VudA==
-category: life
+category: tech
 tags: [marketing]
 ---
 帖两篇关于Tencent的文章，不敢完全苟同文章的主题，重点在加亮的文字

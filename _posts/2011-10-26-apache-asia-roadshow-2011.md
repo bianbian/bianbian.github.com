@@ -1,9 +1,10 @@
 --- 
 layout: post
-title: Apache Asia Roadshow 2011
+title: apache asia roadshow 2011
 category: tech
 tags: 
 - apache
+- roadshow
 ---
 最早在iteye看到Roadshow的消息,赶紧去网站上报了名(搞不清为撒这种网站都要被墙,方校长,干你妹)
 

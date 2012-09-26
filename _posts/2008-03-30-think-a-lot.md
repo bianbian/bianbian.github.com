@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   5p2C5oOz
 category: life
-tags: []
+tags: [thought]
 ---
 原来我真的放不下
 

@@ -2,9 +2,9 @@
 layout: post
 category: tech
 tags: 
-- Java
-- Sun
-- Oracle
+- java
+- sun
+- oracle
 title: !binary |
   SmF2YUV5ZeabtOWQjeS4ukl0RXll
 ---

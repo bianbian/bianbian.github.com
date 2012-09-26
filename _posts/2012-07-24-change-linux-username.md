@@ -2,8 +2,8 @@
 layout: post
 title: !binary |
   5pu05pS5bGludXjnlKjmiLflkI0=
-category: linux
-tags: 
+category: tech
+tags: [linux, raspberry pi, raspbian]
 ---
 raspbian系统是img形式的,这就意味着所有人装完系统后里面都是同样的东西.包括用户名,密码,密钥etc.  
 安全起见,这些东西都需要更新一下.密码和密钥比较简单.这里记录一下更改用户名.

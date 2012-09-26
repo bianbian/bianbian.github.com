@@ -3,8 +3,8 @@ layout: post
 title: !binary |
   5ZyoQ0LkuIrmipXpgJLkuobkuKrmlrDpl7vvvIzooqvphJnop4bkuobigKbi
   gKY=
-category: life
-tags: []
+category: tech
+tags: [customer service]
 ---
 也怪我没有考虑完全，只顾着抢时间，思路还没整好就急忙投递了……
 

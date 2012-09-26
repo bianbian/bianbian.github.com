@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   6ICD5a6M6K+V77yM5Y+R54K554mi6aqa77yI5LiA77yJ
 category: life
-tags: []
+tags: [love]
 ---
 考试期间看了个电视剧《奋斗》，当时看着挺好的，虽然时间紧张，还是看完了十来集。考试完了，舍友要看，就传给他，他看的比我快，我就把最后一集看了，看完了觉得这戏没意思，删了
 

@@ -2,8 +2,8 @@
 layout: post
 title: !binary |
   5oCA5pen55qE5beo6J+5
-category: life
-tags: 
+category: tech
+tags: [diy, raspberry pi]
 ---
 几个设备:
 

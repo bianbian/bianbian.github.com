@@ -2,7 +2,7 @@
 layout: post
 title: CentOS org turns 4!
 category: tech
-tags: [cent OS, linux]
+tags: [cent os, linux]
 ---
 Something happened on December 4th, 2003 and it went largely unnoticed in the Linux world, even by the developers at the CentOS Project. On that date, the CentOS Project registered the domain name CentOS.org.
 

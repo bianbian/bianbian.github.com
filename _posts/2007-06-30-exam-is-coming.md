@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   6KaB6ICD6K+V5LqG
 category: life
-tags: []
+tags: [exam]
 ---
 要考试了，换个清爽点的主题，希望考试期间自己的心情也能这么清爽
 

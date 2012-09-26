@@ -4,7 +4,7 @@ title: run linux application from windows
 category: tech
 tags:
 - linux
-- X11
+- x11
 ---
 Environment:
 

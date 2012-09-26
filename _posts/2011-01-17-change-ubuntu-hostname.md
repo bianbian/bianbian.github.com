@@ -3,6 +3,7 @@ layout: post
 title: change hostname of ubuntu
 category: tech
 tags: 
+- linux
 - ubuntu
 ---
 ## Change hostname, take effect immediately, got lost after reboot

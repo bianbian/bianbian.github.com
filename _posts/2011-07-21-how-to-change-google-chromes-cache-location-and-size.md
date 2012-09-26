@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "How To Change Google Chrome\xE2\x80\x99s Cache Location And Size"
+title: how to change google chrome's cache location and size
 category: tech
 tags: 
-- Chrome
+- chrome
 ---
 by command line:
 

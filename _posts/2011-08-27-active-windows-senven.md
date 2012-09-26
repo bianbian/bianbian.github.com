@@ -4,11 +4,11 @@ title: !binary |
   5Yi3QklPU+a/gOa0u1dpbjc=
 category: tech
 tags: 
+- windows 7
 - bios
 - oem
-- windows7
 ---
-要激活Windows7,靠淘宝上卖KEY的是不靠谱的,要激活要么从正规渠道买KEY,要么再想办法.
+要激活Windows 7,靠淘宝上卖KEY的是不靠谱的,要激活要么从正规渠道买KEY,要么再想办法.
 
 办法就是用OEM Licence.
 

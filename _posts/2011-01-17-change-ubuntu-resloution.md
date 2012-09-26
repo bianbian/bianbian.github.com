@@ -3,6 +3,7 @@ layout: post
 title: change the boot up resloution of ubuntu
 category: tech
 tags: 
+- linux
 - ubuntu
 ---
 ## 1. edit grub config file

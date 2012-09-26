@@ -3,6 +3,7 @@ layout: post
 title: vim-teny vs vim
 category: tech
 tags: 
+- linux
 - ubuntu
 - vim
 ---

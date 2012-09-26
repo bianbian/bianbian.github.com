@@ -3,7 +3,7 @@ layout: post
 title: !binary |
   5byA5rqQ6L2v5Lu25piv5aaC5L2V5a6e546w55uI5Yip55qE
 category: tech
-tags: [open source]
+tags: [open source, marketing]
 ---
 开源软件可以是成功的商业行为，那么这意味着什么呢？首先，商业公司必须要能够生存和盈利；其次，商业公司生存的意义在于为用户创造价值。那么我们来看看开源软件是如何生存、如何创造价值、并如何借助其创造的价值来获得回报的。
 

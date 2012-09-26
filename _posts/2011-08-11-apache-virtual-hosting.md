@@ -4,6 +4,7 @@ title: apache virtual hosting
 category: tech
 tags: 
 - apache
+- linux
 - ubuntu
 ---
 Environment: ubuntu-10.04.3-server, apache2

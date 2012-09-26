@@ -1,10 +1,11 @@
 --- 
 layout: post
-title: Java Regular Expression Case
+title: java regular expression sample
 category: tech
 tags: 
-- Java
-- Regular Expression
+- java
+- regular expression
+- sample
 ---
 ## Check if a string is number
 

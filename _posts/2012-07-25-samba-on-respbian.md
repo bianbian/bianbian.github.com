@@ -4,7 +4,9 @@ title: samba on respbian
 category: tech
 tags: 
 - linux
-- Raspberry Pi
+- raspbian
+- samba
+- raspberry pi
 ---
 ## 安装samba
 

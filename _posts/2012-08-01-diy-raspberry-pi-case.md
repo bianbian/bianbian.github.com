@@ -4,8 +4,8 @@ title: !binary |
   RElZ5qCR6I6T5rS+5aSW5aOz
 category: tech
 tags: 
-- DIY
-- Raspberry Pi
+- raspberry pi
+- diy
 ---
 制作材料:
 
