@@ -13,9 +13,9 @@ h6
 }
 /* reset css end */
 
+/* global */
 body {
-  line-height: 1.5em;
-  font-family: Georgia, serif, SimSun;
+  font: 100%/1.5 tahoma, helvetica, arial, simsun, sans-serif;
   color: #333;
 }
 
@@ -29,12 +29,25 @@ a:hover {
   text-decoration: underline;
 }
 
+/* header */
+nav ul, nav li {
+  display: inline;
+  text-transform: capitalize;
+}
+
+nav li::before {
+  content: " · ";
+}
+
+nav li:first-child::before {
+  content: "";
+}
+
 .description, .meta {
   color: gray;
 }
 
-.clearfix{zoom:1}.clearfix:before,.clearfix:after{display:table;content:"";zoom:1}.clearfix:after{clear:both}
-
+/* container */
 #container>header {
   margin-top: 1em;
   margin-bottom: 2em;
@@ -50,6 +63,7 @@ a:hover {
   text-align: center;
 }
 
+/* article */
 article {
   margin-bottom: 2em;
 }
@@ -58,50 +72,37 @@ article header {
   text-align: center;
 }
 
+article nav span:last-child {
+  float:right;
+}
+
 article footer {
   padding: 1em 0;
   border-top: 1px solid #404040;
 }
 
+/* code */
+code {
+  font: 87.5%/normal Courier New, monospace;
+  background: #eee;
+  padding-left: 0.2em;
+  padding-right:0.2em;
+  border:1px solid #ddd;
+}
+
+pre {
+  background: #eee;
+  padding: 0.6em;
+  border:1px solid #ddd;
+  border-radius:0.3em;
+  overflow:auto;
+}
+
+pre code {
+  border:none;
+}
+
+/* pageinator */
 #paginator {
   margin-bottom: 2em;
 }
-
-nav ul, nav li {
-  display: inline;
-  text-transform: capitalize;
-}
-
-nav li::before {
-  content: " · ";
-}
-
-nav li:first-child::before {
-  content: "";
-}
-
-#logo {
-  padding: 0;
-  margin: 0;
-}
-
-.strap {
-  padding: 0;
-  margin: 0;
-}
-
-#aboutme {
-  float: left;
-  width: 72%;
-  margin-right: 20px;
-}
-
-#portrait {
-  float: right;
-  padding: 1em;
-}
-
-code,pre {font-family:Monaco, Andale Mono, Courier New, monospace;font-size:0.8em;}
-code{font-size:0.9em;background:#eee;padding-left:0.2em;padding-right:0.2em;border:1px solid #ddd;}
-pre{line-height:1.4em;background:#eee;padding:0.6em;border:1px solid #ddd;-moz-border-radius:0.3em;-webkit-border-radius:0.3em;border-radius:0.3em;overflow:auto;}
-pre code{border:none}
