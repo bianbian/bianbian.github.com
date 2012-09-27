@@ -10,16 +10,20 @@ layout: default
 {{ content }}
   </div>
   <nav>
+    <span>
 {% if page.previous %}
-    <span>
       <a href="{{ page.previous.url}}">« {{ page.previous.title }}</a>
-    </span>
+{% else %}
+      « nothing
 {% endif %}
-{% if page.next%}
+    </span>
     <span>
+{% if page.next%}
       <a href="{{ page.next.url}}">{{ page.next.title }} »</a>
-    </span>
+{% else %}
+      nothing »
 {% endif %}
+    </span>
   </nav>
 </article>
 <!-- comment -->
