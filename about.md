@@ -1,8 +1,7 @@
 ---
 layout: post
-title: about
+title: About me
 date: 2012-07-08
 ---
 * [@bianbian](https://twitter.com/bianbian)
-* Programmer
-* ride MCU
+* https://github.com/bianbian
