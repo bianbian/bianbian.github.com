@@ -22,7 +22,7 @@ ip地址设置：
 dns设置
 
 	sudo vi /etc/resolvconf/resolv.conf.d/base
-
+	
 	nameserver 10.12.5.2
 	nameserver 221.228.255.1
 	
