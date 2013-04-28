@@ -37,5 +37,5 @@ dns设置
 
 参考：
 
-*[Ubuntu下修改DNS重启也能用的方法](http://yubosun.akcms.com/tech/ubntu-dns-reset.htm)
-*[关于 ubuntu 设置静态IP的问题](http://imcn.me/html/y2012/11868.html)
+* [Ubuntu下修改DNS重启也能用的方法](http://yubosun.akcms.com/tech/ubntu-dns-reset.htm)
+* [关于 ubuntu 设置静态IP的问题](http://imcn.me/html/y2012/11868.html)
