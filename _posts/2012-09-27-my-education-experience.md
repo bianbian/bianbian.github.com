@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我的教育经历
+published: false
 category: life
 tags: education
 ---
