@@ -29,6 +29,11 @@ a:hover {
   text-decoration: underline;
 }
 
+table.compat-table { border-color: #bbb; border-collapse: collapse; margin: 0 }
+table.compat-table td { padding: 5px; border: 1px solid #ccc; background: #fff; vertical-align: top; word-wrap: break-word }
+table.compat-table th,
+table.compat-table td.header { border: 1px solid #bbb; padding: 0 5px; background: #eee; }
+
 /* header */
 nav ul, nav li {
   display: inline;
