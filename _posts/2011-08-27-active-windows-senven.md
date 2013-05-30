@@ -62,7 +62,7 @@ OS里的这两样东西比较好搞,找到这两个文件,然后导入到系统�
 
 Original BIOS那里选择刚才的JE40D111.wph文件  
 RW file选择刚才制作的rw文件  
-SLIC File选择 SLIC 2.1 BINSACER2.1 BIN &amp; 2.1 CertificateAcer[ACRSYS-ACRPRDCT-ANNI]2.1.BIN  
+SLIC File选择 SLIC 2.1 BINSACER2.1 BIN &amp; 2.1 CertificateAcer\[ACRSYS-ACRPRDCT-ANNI\]2.1.BIN  
 点击Go按钮,包含SLIC2.1的BIOS文件就制作好啦.  
 文件存在跟JE40D111.wph相同目录下,文件名是JE40D111_SLIC.wph.
 
