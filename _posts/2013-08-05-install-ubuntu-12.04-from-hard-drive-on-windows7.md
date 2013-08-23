@@ -44,6 +44,5 @@ grub4dos是Windows下硬盘安装linux的不二之选。
 [Install Ubuntu 12.04.2 LTS](http://www.ubuntu.com/download/desktop/install-desktop-long-term-support)  
 [How to Install Ubuntu 12.04 Precise Pangolin](http://howtoubuntu.org/how-to-install-ubuntu-12-04-precise-pangolin#.UhdbcdJmiSp)
 
-参考：
-
+参考：  
 [Grub2/ISOBoot](https://help.ubuntu.com/community/Grub2/ISOBoot)
