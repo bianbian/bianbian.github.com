@@ -39,7 +39,7 @@ grub4dos是Windows下硬盘安装linux的不二之选。
 ## 安装ubuntu ##
 重启电脑，选择grub4dos，选择install ubuntu 12.04.2，进入Live CD。
 
-打开terminal，输入``sudo umount -l -r -f /isodevice``。然后双击桌面上的图标启动安装程序。详细安装过程可以参照下面的文章：
+打开terminal，输入``sudo umount -l -r -f /isodevice``。然后双击桌面上"Install Ubuntu 12.04 LTS"的图标启动安装程序。详细安装过程可以参照下面的文章：
 
 [Install Ubuntu 12.04.2 LTS](http://www.ubuntu.com/download/desktop/install-desktop-long-term-support)  
 [How to Install Ubuntu 12.04 Precise Pangolin](http://howtoubuntu.org/how-to-install-ubuntu-12-04-precise-pangolin#.UhdbcdJmiSp)
