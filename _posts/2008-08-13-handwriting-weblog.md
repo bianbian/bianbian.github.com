@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5omL5YaZ5pel5b+X
+title: 手写日志
 category: life
 tags: [blog]
 ---

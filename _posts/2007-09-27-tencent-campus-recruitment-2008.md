@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  VGVuY2VudCAyMDA4IOWuo+iusg==
+title: Tencent 2008 宣讲
 category: life
 tags: [work, tencent]
 ---

@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5LiL5LqG6LS86Ii5
+title: 下了贼船
 category: life
 tags: []
 ---

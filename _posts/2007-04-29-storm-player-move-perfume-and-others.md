@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pq06aOO5b2x6Z+z44CB6aaZ5rC0YW5kb3RoZXJz
+title: 暴风影音、香水andothers
 category: tech
 tags: [marketing]
 ---

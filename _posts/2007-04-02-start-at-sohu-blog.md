@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  55yL5Y2a5a6i55qE5pe25YCZ5q+P5qyh5Zue5aSN6YO96KaB6aqM6K+B
+title: 看博客的时候每次回复都要验证
 category: life
 tags: [blog]
 ---

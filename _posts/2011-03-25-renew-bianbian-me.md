@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  YmlhbmJpYW4ubWXnu63otLk=
+title: bianbian.me续费
 category: tech
 tags: 
 - Godaddy

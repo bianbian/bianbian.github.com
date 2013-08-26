@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  UmFzcGJlcnJ5IFBp5Yiw5omL
+title: Raspberry Pi到手
 category: tech
 tags: 
 - raspberry pi

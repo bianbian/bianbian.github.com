@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  cGxhbjrln7rkuo5Hb29nbGUgZGljdGlvbmFyeeeahOafpeivjei9r+S7tg==
+title: plan:基于Google dictionary的查词软件
 category: tech
 tags: 
 - Google

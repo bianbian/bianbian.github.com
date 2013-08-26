@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5byA5rqQ6L2v5Lu25piv5aaC5L2V5a6e546w55uI5Yip55qE
+title: 开源软件是如何实现盈利的
 category: tech
 tags: [open source, marketing]
 ---

@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  TGludXjnvZHnu5zlr7nml7Y=
+title: Linux网络对时
 catagory: tech
 tags: 
 - linux

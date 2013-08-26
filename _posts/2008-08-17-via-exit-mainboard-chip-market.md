@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5aiB55ub5bCG6YCA5Ye65Li75p2/6Iqv54mH57uE5biC5Zy6
+title: 威盛将退出主板芯片组市场
 category: tech
 tags: [via, chip]
 ---

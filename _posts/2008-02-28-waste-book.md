@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5rWB5rC05biQ
+title: 流水帐
 category: life
 tags: [work]
 ---

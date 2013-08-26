@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pS25YiwdWJ1bnR1MTAuMTDlhYnnm5g=
+title: 收到ubuntu10.10光盘
 category: tech
 tags: 
 - ubuntu

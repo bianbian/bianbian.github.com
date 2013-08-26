@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  6IW+6K6vUVHlsY/olL1DTuWfn+WQjQ==
+title: 腾讯QQ屏蔽CN域名
 category: tech
 tags: [domain, qq]
 ---

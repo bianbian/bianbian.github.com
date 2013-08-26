@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  W+i9rF0xMOW5tOi9r+S7tuW8gOWPkeaVmeS8muaIkeacgOmHjeimgeeahDEw
+title: [转]10年软件开发教会我最重要的10
   5Lu25LqL
 category: tech
 tags:

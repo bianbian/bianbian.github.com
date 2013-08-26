@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Windows 7远程桌面连接很慢怎么办？
 category: tech
 tags: windows 7, network
-title: Windows 7远程桌面连接很慢怎么办？
 ---
 Windows 7通过远程桌面连接访问windows server 2003速度很慢，用下面的方法，立马解决（改善）了我的问题。
 

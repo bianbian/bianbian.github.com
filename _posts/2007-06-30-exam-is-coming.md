@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  6KaB6ICD6K+V5LqG
+title: 要考试了
 category: life
 tags: [exam]
 ---

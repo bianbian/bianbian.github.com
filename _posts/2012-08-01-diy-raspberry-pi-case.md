@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  RElZ5qCR6I6T5rS+5aSW5aOz
+title: DIY树莓派外壳
 category: tech
 tags: 
 - raspberry pi

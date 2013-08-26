@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5rOo5YaM5LqGYmlhbmJpYW4ubWU6LSk=
+title: 注册了bianbian.me:-)
 category: tech
 tags: 
 - domain

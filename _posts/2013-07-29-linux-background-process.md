@@ -1,8 +1,8 @@
 ---
 layout: post
+title: linux后台进程
 category: tech
 tags: linux, background
-title: linux后台进程
 ---
 启动一个后台进程：``nohup command &``
 

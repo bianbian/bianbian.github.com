@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5Y6L5Yqb5aW95aSn
+title: 压力好大
 category: life
 tags: 
 ---

@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  6IOh6KiA5Lmx6K+t
+title: 胡言乱语
 category: life
 tags: []
 ---

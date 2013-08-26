@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5Lu35YC8JuaipuaDsw==
+title: 价值&梦想
 category: life
 tags: [work]
 ---

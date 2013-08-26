@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5om55YikODDlkI7vvIzmnInmhI/mgJ3kuYjvvJ8=
+title: 批判80后，有意思么？
 category: life
 tags: [80's]
 ---

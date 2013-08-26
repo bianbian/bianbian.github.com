@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5p2C5oOz
+title: 杂想
 category: life
 tags: [thought]
 ---

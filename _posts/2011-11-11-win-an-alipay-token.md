@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5Lit5LqG5Liq5a6d5Luk
+title: 中了个宝令
 category: life
 tags: 
 - alipay

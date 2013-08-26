@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5oCA5pen55qE5beo6J+5
+title: 怀旧的巨蟹
 category: tech
 tags: [diy, raspberry pi]
 ---

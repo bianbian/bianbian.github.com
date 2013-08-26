@@ -1,8 +1,8 @@
 ---
 layout: post
+title: 用Magic Number判断文件类型
 category: tech
 tags: file type, unicode
-title: 用Magic Number判断文件类型
 ---
 Magic Number是指文件头部的几个字节，通常用十六进制表示，可用来判断文件类型。比如Java class文件的CAFEBABE，linux shell script的“shebang”（#!, 23 21)。
 

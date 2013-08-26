@@ -1,8 +1,8 @@
 ---
 layout: post
+title: ubuntu更新卡在Wating for headers
 category: tach
 tags: ubuntu, apt-get
-title: ubuntu更新卡在Wating for headers
 ---
 在ubuntu上安装软件，先运行``sudo apt-get update``，顺利运行，速度还可以。
 

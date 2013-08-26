@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5qCR6I6T5rS+bGVk5a6e6aqM
+title: 树莓派led实验
 category: tech
 tags: 
 - raspberry pi

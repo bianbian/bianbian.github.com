@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pu05pS5bGludXjnlKjmiLflkI0=
+title: 更改linux用户名
 category: tech
 tags: [linux, raspberry pi, raspbian]
 ---

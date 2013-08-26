@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Windows7下硬盘安装ubuntu 12.04
 category: tech
 tags: ubuntu, grub4dos
-title: Windows7下硬盘安装ubuntu 12.04
 ---
 grub4dos是Windows下硬盘安装linux的不二之选。
 

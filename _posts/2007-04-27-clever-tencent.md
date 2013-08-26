@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  6IGq5piO55qEVGVuY2VudA==
+title: 聪明的Tencent
 category: tech
 tags: [marketing]
 ---

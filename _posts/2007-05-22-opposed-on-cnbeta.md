@@ -1,8 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5ZyoQ0LkuIrmipXpgJLkuobkuKrmlrDpl7vvvIzooqvphJnop4bkuobigKbi
-  gKY=
+title: 在CB上投递了个新闻，被鄙视了……
 category: tech
 tags: [customer service]
 ---

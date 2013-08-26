@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5Yi3QklPU+a/gOa0u1dpbjc=
+title: 刷BIOS激活Win7
 category: tech
 tags: 
 - windows 7

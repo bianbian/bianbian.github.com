@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5aW95LmF5rKh5p2l5YaZ5Lic6KW/5LqG
+title: 好久没来写东西了
 category: life
 tags: [blog, bianbian]
 ---

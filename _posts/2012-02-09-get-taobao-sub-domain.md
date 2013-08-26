@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pC25Yiw5reY5a+25LqM57Sa5Z+f5ZCN
+title: 搶到淘寶二級域名
 category: tech
 tags: 
 - linux

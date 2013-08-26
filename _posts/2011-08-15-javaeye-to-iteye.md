@@ -1,12 +1,11 @@
 --- 
 layout: post
+title: JavaEye更名为ItEye
 category: tech
 tags: 
 - java
 - sun
 - oracle
-title: !binary |
-  SmF2YUV5ZeabtOWQjeS4ukl0RXll
 ---
 Today I try to look up some info on javaeye.com. In surprise, I found I'm visting iteye.com!
 

@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pa55q2j6Z2Z6JW+566A5L2T
+title: 方正静蕾简体
 category: tech
 tags: [font type, copy right]
 ---

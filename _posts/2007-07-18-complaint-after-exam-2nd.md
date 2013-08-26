@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  6ICD5a6M6K+V77yM5Y+R54K554mi6aqa77yI5LqM77yJ
+title: 考完试，发点牢骚（二）
 category: life
 tags: [marketing]
 ---

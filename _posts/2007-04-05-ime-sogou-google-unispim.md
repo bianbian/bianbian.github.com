@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: !binary |
-  5pCc54uXIHZzIGdvb2dsZSB2cyDntKvlhYk=
+title: 搜狗 vs google vs 紫光
 category: tech
 tags: [ime]
 ---
