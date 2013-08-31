@@ -15,7 +15,7 @@ h6
 
 /* global */
 body {
-  font: 100%/1.5 tahoma, helvetica, arial, simsun, sans-serif;
+  font: 100%/1.5 tahoma, helvetica, arial, "Microsoft YaHei", simsun, sans-serif;
   color: #333;
 }
 
@@ -29,6 +29,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.previous {
+}
+
+.next {
+  float: right;
+}
 table.compat-table { border-color: #bbb; border-collapse: collapse; margin: 0 }
 table.compat-table td { padding: 5px; border: 1px solid #ccc; background: #fff; vertical-align: top; word-wrap: break-word }
 table.compat-table th,
@@ -68,13 +74,25 @@ nav li:first-child::before {
   text-align: center;
 }
 
+#container img {
+  border: 1px solid #ccc;
+  padding: .5em;
+  border-radius: 0.3em;
+  box-shadow: 2px 2px 10px #999;
+}
 /* article */
 article {
+  font-size: 14px;
   margin-bottom: 2em;
 }
 
 article header {
   text-align: center;
+}
+
+article div.content {
+  letter-spacing: 1px;
+  margin-bottom: 10px;
 }
 
 article nav span:last-child {
@@ -90,9 +108,10 @@ article footer {
 code {
   font: 87.5%/normal Courier New, monospace;
   background: #eee;
-  padding-left: 0.2em;
-  padding-right:0.2em;
+  padding: 0.2em 0.3em;
   border:1px solid #ddd;
+  border-radius:0.3em;
+  letter-spacing: 0;
 }
 
 pre {
@@ -105,6 +124,7 @@ pre {
 
 pre code {
   border:none;
+  padding: 0;
 }
 
 /* pageinator */

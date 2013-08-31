@@ -11,11 +11,11 @@ GPIO电压是3V3,拿来做个LED实验应该木问题.
 
 所需器材:
 
-* rpi一只(必须的啦~)
-* 面包板
-* 发光二极管一只
-* 220R电阻一只
-* 杜邦线若干
+*  rpi一只(必须的啦~)
+*  面包板
+*  发光二极管一只
+*  220R电阻一只
+*  杜邦线若干
 
 思路:控制GPIO电压高低(3V3或0),就能点亮LED啦,保险起见,加个电阻限流.  
 电路图:
@@ -38,10 +38,10 @@ python程序 testled.py:
 	GPIO.setup(11, GPIO.OUT)
 
 	while True :
-	  print &quot;set output low&quot;
+	  print 'set output low'
 	  GPIO.output(11, GPIO.LOW)
 	  time.sleep(1)
-	  print &quot;set output high&quot;
+	  print 'set output high'
 	  GPIO.output(11, GPIO.HIGH)
 	  time.sleep(1)
 
