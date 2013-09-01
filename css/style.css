@@ -19,14 +19,13 @@ body {
   color: #333;
 }
 
-a {
-  color: #069;
-  text-decoration: none;
+.description, .meta {
+  color: gray;
 }
 
-a:hover {
+a {
   color: #333;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .previous {
@@ -35,33 +34,32 @@ a:hover {
 .next {
   float: right;
 }
+
 table.compat-table { border-color: #bbb; border-collapse: collapse; margin: 0 }
 table.compat-table td { padding: 5px; border: 1px solid #ccc; background: #fff; vertical-align: top; word-wrap: break-word }
 table.compat-table th,
 table.compat-table td.header { border: 1px solid #bbb; padding: 0 5px; background: #eee; }
 
-/* header */
-nav ul, nav li {
-  display: inline;
-  text-transform: capitalize;
-}
-
-nav li::before {
-  content: " · ";
-}
-
-nav li:first-child::before {
-  content: "";
-}
-
-.description, .meta {
-  color: gray;
-}
-
 /* container */
 #container>header {
-  margin-top: 1em;
-  margin-bottom: 2em;
+  margin: 1em 0;
+}
+
+#container>header>nav {
+  font-family: Calibri;
+}
+
+#container>header nav ul, nav li {
+  display: inline;
+  text-transform: uppercase;
+}
+
+#container>header nav li: {
+  margin-right: 1em;
+}
+
+#container>header nav li:last-child {
+  margin-right: 0;
 }
 
 #container>header>p {
@@ -79,6 +77,10 @@ nav li:first-child::before {
   padding: .5em;
   border-radius: 0.3em;
   box-shadow: 2px 2px 10px #999;
+}
+
+#content a {
+  border-bottom: 1px dotted;
 }
 /* article */
 article {
@@ -111,7 +113,7 @@ code {
   padding: 0.2em 0.3em;
   border:1px solid #ddd;
   border-radius:0.3em;
-  letter-spacing: 0;
+  letter-spacing: normal;
 }
 
 pre {
@@ -125,6 +127,10 @@ pre {
 pre code {
   border:none;
   padding: 0;
+}
+
+.gist {
+  letter-spacing: normal;
 }
 
 /* pageinator */

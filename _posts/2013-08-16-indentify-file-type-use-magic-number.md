@@ -41,32 +41,7 @@ UTF-16，UTF-32编码文件的BOM，也可以作为Magic Number，用来判断�
 
 顺便贴个Java字节转十六进制的代码：
 
-	/**
-	 * Returns a string representation of the byte array argument in base 16.
-	 * 
-	 * @param bytes
-	 *            an byte array to be converted to a string.
-	 * @return the string representation of the byte array represented by the
-	 *         argument in hexadecimal (base 16).
-	 */
-	public static String bytesToHexString(byte[] bytes) {
-		StringBuilder stringBuilder = new StringBuilder();
-
-		if (bytes == null || bytes.length <= 0) {
-			return "";
-		}
-
-		for (int i = 0; i < bytes.length; i++) {
-			int value = bytes[i] & 0xFF;
-			String hexValue = Integer.toHexString(value);
-			if (hexValue.length() < 2) {
-				stringBuilder.append(0);
-			}
-			stringBuilder.append(hexValue);
-		}
-
-		return stringBuilder.toString();
-	}
+{% gist 6250138 %}
 
 参考：
 - [File format](http://en.wikipedia.org/wiki/File_format)
