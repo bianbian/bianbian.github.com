@@ -54,7 +54,7 @@ table.compat-table td.header { border: 1px solid #bbb; padding: 0 5px; backgroun
   text-transform: uppercase;
 }
 
-#container>header nav li: {
+#container>header nav li {
   margin-right: 1em;
 }
 
