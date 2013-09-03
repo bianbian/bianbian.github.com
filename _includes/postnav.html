@@ -1,0 +1,16 @@
+<nav>
+  <span>
+{% if page.next%}
+    « <a href="{{ page.next.url}}">{{ page.next.title }}</a>
+{% else %}
+    « nothing
+{% endif %}
+  </span>
+  <span class="next">
+{% if page.previous %}
+    <a href="{{ page.previous.url}}">{{ page.previous.title }}</a> »
+{% else %}
+    nothing »
+{% endif %}
+  </span>
+</nav>
