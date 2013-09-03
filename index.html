@@ -3,16 +3,24 @@ layout: default
 title: Home
 ---
 {% for page in paginator.posts %}
-<p><span class="meta">{{ page.date | date: "%Y-%m-%d" }}</span> : <a href="{{ page.url }}">{{ page.title }}</a></p>
+<article>
+  <header>
+    <h1><a href="{{ page.url }}">{{page.title}}</a></h1>
+    <div class="meta">{{page.date | date: "%Y.%m.%d" }}</div>
+  </header>
+  <div class="content">
+    {{ page.content }}
+  </div>
+</article>
 {% endfor %}
 
 <div id="paginator">
   <span>
   {% if paginator.previous_page %}
   	{% if paginator.previous_page == 1 %}
-  		<a href="/">« Previous</a>
+  		« <a href="/">Previous</a>
   	{% else %}
-  		<a href="{{ paginator.previous_page_path }}">« Previous</a>
+  		« <a href="{{ paginator.previous_page_path }}">Previous</a>
   	{% endif %}
   {% else %}
   	« Nothing
@@ -20,7 +28,7 @@ title: Home
   </span>
   <span class="next">
   {% if paginator.next_page %}
-  	<a href="{{ paginator.next_page_path }}">Next »</a>
+  	<a href="{{ paginator.next_page_path }}">Next</a> »
   {% else %}
   	Nothing »
   {% endif %}

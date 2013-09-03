@@ -80,6 +80,7 @@ table.compat-table td.header { border: 1px solid #bbb; padding: 0 5px; backgroun
 }
 
 #content a {
+  color: #DD1111;
   border-bottom: 1px dotted;
 }
 /* article */
@@ -90,6 +91,10 @@ article {
 
 article header {
   text-align: center;
+}
+
+article header h1 {
+  font-size: 16px;
 }
 
 article div.content {
