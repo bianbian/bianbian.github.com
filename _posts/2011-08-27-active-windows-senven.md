@@ -1,8 +1,9 @@
---- 
+---
 layout: post
 title: 刷BIOS激活Win7
+published: false
 category: tech
-tags: 
+tags:
 - windows 7
 - bios
 - oem
