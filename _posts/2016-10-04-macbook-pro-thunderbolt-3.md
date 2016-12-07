@@ -7,6 +7,7 @@ tags: [MacBook pro, Thunderbolt, USB-C]
 MacBook Pro 2016干掉了上一代MBP的USB，DP，HDMI, SD读卡器等接口，使用了清一色的USB-C接口。在USB-C后面的，是Thunderbolt 3。
 
 Thunderbolt 3提供了：
+
 * 正反可插的USB-C接口
 * 兼容USB 3.1
 * 支持两台4K显示屏或一台5K显示屏，原生支持DisplayPort，通过转换器支持HDMI和VGA
@@ -20,6 +21,7 @@ Power Delivery充电技术，也有望取代高通QC等快充技术，成为事�
 Type-C接口的Thunderbolt 3是一个One for All的方案，MBP采用这个接口，是顺应潮流。
 
 [参考资料]
+
 1. [MacBook Pro - Apple](http://www.apple.com/cn/macbook-pro/)
 2. [Thunderbolt 3 - Apple](http://www.apple.com/cn/thunderbolt/)
 3. [Thunderbolt™ 3 – The USB-C That Does It All](https://thunderbolttechnology.net/blog/thunderbolt-3-usb-c-does-it-all)
