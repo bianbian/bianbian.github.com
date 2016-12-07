@@ -1,8 +1,8 @@
 ---
 layout: post
-title: MacBook Pro(Late 2016)上的Thunderbolt 3接口
+title: MacBook Pro (Late 2016) 的Thunderbolt 3接口
 category: tech
-tags: MacBook pro, Thunderbolt, USB-C
+tags: [MacBook pro, Thunderbolt, USB-C]
 ---
 MacBook Pro 2016干掉了上一代MBP的USB，DP，HDMI, SD读卡器等接口，使用了清一色的USB-C接口。在USB-C后面的，是Thunderbolt 3。
 
