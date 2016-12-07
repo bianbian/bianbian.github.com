@@ -44,6 +44,7 @@ UTF-16，UTF-32编码文件的BOM，也可以作为Magic Number，用来判断�
 {% gist 6250138 %}
 
 参考：
+
 - [File format](http://en.wikipedia.org/wiki/File_format)
 - [Magic number]
 - [UTF-8, UTF-16, UTF-32 & BOM](http://www.unicode.org/faq/utf_bom.html#BOM)
